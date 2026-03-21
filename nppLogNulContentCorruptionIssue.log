@@ -1,0 +1,323 @@
+2023-04-07 16:48:25  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-04-07 16:48:25  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-04-07 16:48:25  F:\programs\Npp\config.xml is opened.
+2023-04-07 16:48:25  F:\programs\Npp\config.xml  9406/9406 bytes are written.
+2023-04-07 16:48:25  F:\programs\Npp\config.xml is closed.
+2023-04-07 16:48:25  F:\programs\Npp\session.xml is opened.
+2023-04-07 16:48:25  F:\programs\Npp\session.xml  785/785 bytes are written.
+2023-04-07 16:48:25  F:\programs\Npp\session.xml is closed.
+2023-04-07 16:48:25  WM_DESTROY (isEndSessionStarted == true)
+2023-04-13 15:28:56  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-04-13 15:28:56  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-04-13 15:28:56  F:\programs\Npp\config.xml is opened.
+2023-04-13 15:28:56  F:\programs\Npp\config.xml  9561/9561 bytes are written.
+2023-04-13 15:28:56  F:\programs\Npp\config.xml is closed.
+2023-04-13 15:28:56  F:\programs\Npp\session.xml is opened.
+2023-04-13 15:28:56  F:\programs\Npp\session.xml  2485/2485 bytes are written.
+2023-04-13 15:28:56  F:\programs\Npp\session.xml is closed.
+2023-04-22 17:00:04  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-04-22 17:00:04  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-04-22 17:00:05  F:\programs\Npp\config.xml is opened.
+2023-04-22 17:00:05  F:\programs\Npp\config.xml  9762/9762 bytes are written.
+2023-04-22 17:00:05  F:\programs\Npp\config.xml is closed.
+2023-04-22 17:00:05  F:\programs\Npp\session.xml is opened.
+2023-04-22 17:00:05  F:\programs\Npp\session.xml  3646/3646 bytes are written.
+2023-04-22 17:00:05  F:\programs\Npp\session.xml is closed.
+2023-04-22 17:00:05  WM_DESTROY (isEndSessionStarted == true)
+2023-04-24 20:25:51  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-04-24 20:25:51  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-04-24 20:25:51  F:\programs\Npp\config.xml is opened.
+2023-04-24 20:25:51  F:\programs\Npp\config.xml  9832/9832 bytes are written.
+2023-04-24 20:25:51  F:\programs\Npp\config.xml is closed.
+2023-04-24 20:25:51  F:\programs\Npp\session.xml is opened.
+2023-04-24 20:25:51  F:\programs\Npp\session.xml  3737/3737 bytes are written.
+2023-04-24 20:25:51  F:\programs\Npp\session.xml is closed.
+2023-04-24 20:25:51  WM_DESTROY (isEndSessionStarted == true)
+2023-04-28 14:34:36  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-04-28 14:34:37  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-04-28 14:34:37  F:\programs\Npp\config.xml is opened.
+2023-04-28 14:34:37  F:\programs\Npp\config.xml  10051/10051 bytes are written.
+2023-04-28 14:34:37  F:\programs\Npp\config.xml is closed.
+2023-04-28 14:34:37  F:\programs\Npp\session.xml is opened.
+2023-04-28 14:34:37  F:\programs\Npp\session.xml  8558/8558 bytes are written.
+2023-04-28 14:34:37  F:\programs\Npp\session.xml is closed.
+2023-04-28 14:34:37  WM_DESTROY (isEndSessionStarted == true)
+2023-05-03 01:33:22  WM_QUERYENDSESSION (lParam: 1073741824 - ENDSESSION_CRITICAL) =====================================
+2023-05-03 01:33:22  WM_ENDSESSION (wParam: TRUE, lParam: 1073741824 - ENDSESSION_CRITICAL)
+2023-05-03 01:33:22  F:\programs\Npp\config.xml is opened.
+2023-05-03 01:33:22  F:\programs\Npp\config.xml  10072/10072 bytes are written.
+2023-05-03 01:33:22  F:\programs\Npp\config.xml is closed.
+2023-05-03 01:33:22  F:\programs\Npp\shortcuts.xml is opened.
+2023-05-03 01:33:22  F:\programs\Npp\shortcuts.xml  1869/1869 bytes are written.
+2023-05-03 01:33:22  F:\programs\Npp\shortcuts.xml is closed.
+2023-05-03 01:33:22  F:\programs\Npp\session.xml is opened.
+2023-05-03 01:33:22  F:\programs\Npp\session.xml  6253/6253 bytes are written.
+2023-05-03 01:33:22  F:\programs\Npp\session.xml is closed.
+2023-05-03 20:11:01  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-05-03 20:11:01  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-05-03 20:11:01  F:\programs\Npp\config.xml is opened.
+2023-05-03 20:11:01  F:\programs\Npp\config.xml  10072/10072 bytes are written.
+2023-05-03 20:11:01  F:\programs\Npp\config.xml is closed.
+2023-05-03 20:11:01  F:\programs\Npp\session.xml is opened.
+2023-05-03 20:11:01  F:\programs\Npp\session.xml  6248/6248 bytes are written.
+2023-05-03 20:11:01  F:\programs\Npp\session.xml is closed.
+2023-05-03 20:11:01  WM_DESTROY (isEndSessionStarted == true)
+2023-05-16 20:15:52  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-05-16 20:15:52  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-05-16 20:15:52  F:\programs\Npp\config.xml is opened.
+2023-05-16 20:15:52  F:\programs\Npp\config.xml  10730/10730 bytes are written.
+2023-05-16 20:15:52  F:\programs\Npp\config.xml is closed.
+2023-05-16 20:15:52  F:\programs\Npp\session.xml is opened.
+2023-05-16 20:15:52  F:\programs\Npp\session.xml  11473/11473 bytes are written.
+2023-05-16 20:15:52  F:\programs\Npp\session.xml is closed.
+2023-05-30 19:30:43  WM_QUERYENDSESSION (lParam: 2147483648 - ENDSESSION_LOGOFF) =====================================
+2023-05-30 19:30:44  WM_ENDSESSION (wParam: TRUE, lParam: 2147483648 - ENDSESSION_LOGOFF)
+2023-05-30 19:30:44  F:\programs\Npp\config.xml is opened.
+2023-05-30 19:30:44  F:\programs\Npp\config.xml  10197/10197 bytes are written.
+2023-05-30 19:30:44  F:\programs\Npp\config.xml is closed.
+2023-05-30 19:30:44  F:\programs\Npp\session.xml is opened.
+2023-05-30 19:30:44  F:\programs\Npp\session.xml  22526/22526 bytes are written.
+2023-05-30 19:30:44  F:\programs\Npp\session.xml is closed.
+2023-05-30 19:30:44  WM_DESTROY (isEndSessionStarted == true)
+2023-06-03 11:12:27  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-06-03 11:12:27  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-06-03 11:12:28  F:\programs\Npp\config.xml is opened.
+2023-06-03 11:12:28  F:\programs\Npp\config.xml  10249/10249 bytes are written.
+2023-06-03 11:12:28  F:\programs\Npp\config.xml is closed.
+2023-06-03 11:12:28  F:\programs\Npp\session.xml is opened.
+2023-06-03 11:12:28  F:\programs\Npp\session.xml  19515/19515 bytes are written.
+2023-06-03 11:12:28  F:\programs\Npp\session.xml is closed.
+2023-06-03 11:12:28  WM_DESTROY (isEndSessionStarted == true)
+2023-06-19 14:40:47  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-06-19 14:40:47  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-06-22 16:22:08  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-06-22 16:22:08  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-06-22 16:22:09  F:\programs\Npp\config.xml is opened.
+2023-06-22 16:22:09  F:\programs\Npp\config.xml  11632/11632 bytes are written.
+2023-06-22 16:22:09  F:\programs\Npp\config.xml is closed.
+2023-06-22 16:22:09  F:\programs\Npp\session.xml is opened.
+2023-06-22 16:22:09  F:\programs\Npp\session.xml  31764/31764 bytes are written.
+2023-06-22 16:22:09  F:\programs\Npp\session.xml is closed.
+2023-06-22 16:22:09  WM_DESTROY (isEndSessionStarted == true)
+2023-08-07 18:18:10  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-08-07 18:18:10  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-08-07 18:18:10  F:\programs\Npp\config.xml is opened.
+2023-08-07 18:18:10  F:\programs\Npp\config.xml  10504/10504 bytes are written.
+2023-08-07 18:18:10  F:\programs\Npp\config.xml is closed.
+2023-08-07 18:18:10  F:\programs\Npp\session.xml is opened.
+2023-08-07 18:18:10  F:\programs\Npp\session.xml  41541/41541 bytes are written.
+2023-08-07 18:18:10  F:\programs\Npp\session.xml is closed.
+2023-08-07 18:18:10  WM_DESTROY (isEndSessionStarted == true)
+2023-08-31 11:42:23  WM_QUERYENDSESSION (lParam: 2147483648 - ENDSESSION_LOGOFF) =====================================
+2023-08-31 11:42:23  WM_ENDSESSION (wParam: TRUE, lParam: 2147483648 - ENDSESSION_LOGOFF)
+2023-08-31 11:42:24  F:\programs\Npp\config.xml is opened.
+2023-08-31 11:42:24  F:\programs\Npp\config.xml  10690/10690 bytes are written.
+2023-08-31 11:42:24  F:\programs\Npp\config.xml is closed.
+2023-08-31 11:42:24  F:\programs\Npp\session.xml is opened.
+2023-08-31 11:42:24  F:\programs\Npp\session.xml  44470/44470 bytes are written.
+2023-08-31 11:42:24  F:\programs\Npp\session.xml is closed.
+2023-08-31 11:42:24  WM_DESTROY (isEndSessionStarted == true)
+2023-09-07 10:33:42  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-09-07 10:33:42  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-09-07 10:33:42  F:\programs\Npp\config.xml is opened.
+2023-09-07 10:33:42  F:\programs\Npp\config.xml  11003/11003 bytes are written.
+2023-09-07 10:33:42  F:\programs\Npp\config.xml is closed.
+2023-09-07 10:33:42  F:\programs\Npp\session.xml is opened.
+2023-09-07 10:33:42  F:\programs\Npp\session.xml  49853/49853 bytes are written.
+2023-09-07 10:33:42  F:\programs\Npp\session.xml is closed.
+2023-09-07 10:33:42  WM_DESTROY (isEndSessionStarted == true)
+2023-09-07 19:38:59  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-09-07 19:38:59  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-09-07 19:38:59  F:\programs\Npp\config.xml is opened.
+2023-09-07 19:38:59  F:\programs\Npp\config.xml  11612/11612 bytes are written.
+2023-09-07 19:38:59  F:\programs\Npp\config.xml is closed.
+2023-09-07 19:38:59  F:\programs\Npp\session.xml is opened.
+2023-09-07 19:38:59  F:\programs\Npp\session.xml  50679/50679 bytes are written.
+2023-09-07 19:38:59  F:\programs\Npp\session.xml is closed.
+2023-09-07 19:38:59  WM_DESTROY (isEndSessionStarted == true)
+2023-09-11 19:34:00  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-09-11 19:34:00  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-09-11 19:34:01  F:\programs\Npp\config.xml is opened.
+2023-09-11 19:34:01  F:\programs\Npp\config.xml  11443/11443 bytes are written.
+2023-09-11 19:34:01  F:\programs\Npp\config.xml is closed.
+2023-09-11 19:34:01  F:\programs\Npp\session.xml is opened.
+2023-09-11 19:34:01  F:\programs\Npp\session.xml  50967/50967 bytes are written.
+2023-09-11 19:34:01  F:\programs\Npp\session.xml is closed.
+2023-09-11 19:34:01  WM_DESTROY (isEndSessionStarted == true)
+2024-02-09 17:00:20  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-09 17:00:21  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-09 17:00:23  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-02-09 17:00:23  C:\TCDL\Utilities\Notepad++\config.xml  11529/11529 bytes are written.
+2024-02-09 17:00:23  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-02-09 17:00:23  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-02-09 17:00:23  C:\TCDL\Utilities\Notepad++\session.xml  2738/2738 bytes are written.
+2024-02-09 17:00:23  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-02-09 20:16:14  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-09 20:16:14  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-09 20:16:14  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-02-09 20:16:14  C:\TCDL\Utilities\Notepad++\config.xml  11532/11532 bytes are written.
+2024-02-09 20:16:14  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-02-09 20:16:14  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-02-09 20:16:14  C:\TCDL\Utilities\Notepad++\session.xml  3340/3340 bytes are written.
+2024-02-09 20:16:14  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-02-09 20:16:14  WM_DESTROY (isEndSessionStarted == true)
+2024-02-14 20:06:04  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-14 20:06:04  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-14 20:06:08  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-02-14 20:06:08  C:\TCDL\Utilities\Notepad++\config.xml  11276/11276 bytes are written.
+2024-02-14 20:06:08  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-02-14 20:06:08  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-02-14 20:06:09  C:\TCDL\Utilities\Notepad++\session.xml  6918/6918 bytes are written.
+2024-02-14 20:06:09  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-02-14 20:06:09  WM_DESTROY (isEndSessionStarted == true)
+2024-03-05 19:44:02  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-05 19:44:03  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-05 19:44:08  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-05 19:44:08  C:\TCDL\Utilities\Notepad++\config.xml  11687/11687 bytes are written.
+2024-03-05 19:44:08  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-05 19:44:08  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-05 19:44:08  C:\TCDL\Utilities\Notepad++\session.xml  28135/28135 bytes are written.
+2024-03-05 19:44:08  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-03-07 19:51:33  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-07 19:51:35  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-07 19:51:42  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-07 19:51:42  C:\TCDL\Utilities\Notepad++\config.xml  12571/12571 bytes are written.
+2024-03-07 19:51:42  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-07 19:51:42  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-07 19:51:43  C:\TCDL\Utilities\Notepad++\session.xml  26766/26766 bytes are written.
+2024-03-07 19:51:43  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-03-11 19:31:34  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-11 19:31:34  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-11 19:31:39  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-11 19:31:39  C:\TCDL\Utilities\Notepad++\config.xml  12583/12583 bytes are written.
+2024-03-11 19:31:39  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-11 19:31:39  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-11 19:31:39  C:\TCDL\Utilities\Notepad++\session.xml  28382/28382 bytes are written.
+2024-03-11 19:31:39  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-03-11 19:31:39  WM_DESTROY (isEndSessionStarted == true)
+2024-03-13 10:21:15  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-13 10:21:16  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-13 10:21:23  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-13 10:21:23  C:\TCDL\Utilities\Notepad++\config.xml  12896/12896 bytes are written.
+2024-03-13 10:21:24  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-13 10:21:24  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-13 10:21:24  C:\TCDL\Utilities\Notepad++\session.xml  32134/32134 bytes are written.
+2024-03-13 10:21:25  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-03-13 10:21:25  WM_DESTROY (isEndSessionStarted == true)
+2024-03-13 20:09:29  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-13 20:09:29  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-13 20:09:32  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-13 20:09:32  C:\TCDL\Utilities\Notepad++\config.xml  12896/12896 bytes are written.
+2024-03-13 20:09:32  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-13 20:09:32  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-13 20:09:32  C:\TCDL\Utilities\Notepad++\session.xml  31383/31383 bytes are written.
+2024-03-13 20:09:32  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-03-14 16:40:37  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-14 16:40:38  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-14 16:40:43  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-14 16:40:44  C:\TCDL\Utilities\Notepad++\config.xml  12064/12064 bytes are written.
+2024-03-14 16:40:44  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-14 16:40:44  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-14 16:40:45  C:\TCDL\Utilities\Notepad++\session.xml  36185/36185 bytes are written.
+2024-03-14 16:40:45  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-03-14 16:40:45  WM_DESTROY (isEndSessionStarted == true)
+2024-03-19 13:37:48  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-19 13:37:48  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-19 13:37:49  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-19 13:37:49  C:\TCDL\Utilities\Notepad++\config.xml  12740/12740 bytes are written.
+2024-03-19 13:37:49  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-19 13:37:49  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-19 13:37:49  C:\TCDL\Utilities\Notepad++\session.xml  39343/39343 bytes are written.
+2024-03-19 13:37:49  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-03-19 13:37:49  WM_DESTROY (isEndSessionStarted == true)
+2024-03-22 20:13:28  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-22 20:13:29  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-03-22 20:13:31  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-03-22 20:13:31  C:\TCDL\Utilities\Notepad++\config.xml  13691/13691 bytes are written.
+2024-03-22 20:13:31  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-03-22 20:13:31  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-03-22 20:13:31  C:\TCDL\Utilities\Notepad++\session.xml  50851/50851 bytes are written.
+2024-03-22 20:13:31  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-04-01 15:04:40  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2024-04-01 15:04:41  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2024-04-01 15:04:42  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-04-01 15:04:42  C:\TCDL\Utilities\Notepad++\config.xml  12989/12989 bytes are written.
+2024-04-01 15:04:42  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-04-01 15:04:42  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-04-01 15:04:42  C:\TCDL\Utilities\Notepad++\session.xml  59937/59937 bytes are written.
+2024-04-01 15:04:42  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-04-01 15:04:42  WM_DESTROY (isEndSessionStarted == true)
+2024-04-02 19:34:34  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2024-04-02 19:34:35  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2024-04-02 19:34:39  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-04-03 19:10:51  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-04-03 19:10:51  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-04-03 19:10:51  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-04-03 19:10:51  C:\TCDL\Utilities\Notepad++\config.xml  7891/7891 bytes are written.
+2024-04-03 19:10:51  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-04-03 19:10:52  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-04-03 19:10:52  C:\TCDL\Utilities\Notepad++\session.xml  60531/60531 bytes are written.
+2024-04-03 19:10:52  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-04-06 16:26:11  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-04-06 16:26:12  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-04-06 16:26:12  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-04-06 16:26:12  C:\TCDL\Utilities\Notepad++\config.xml  8334/8334 bytes are written.
+2024-04-06 16:26:12  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-04-06 16:26:12  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-04-06 16:26:12  C:\TCDL\Utilities\Notepad++\session.xml  60738/60738 bytes are written.
+2024-04-06 16:26:12  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-04-06 16:26:12  WM_DESTROY (isEndSessionStarted == true)
+2024-04-15 13:17:22  WM_QUERYENDSESSION (lParam: 2147483648 - ENDSESSION_LOGOFF) =====================================
+2024-04-15 13:17:23  WM_ENDSESSION (wParam: TRUE, lParam: 2147483648 - ENDSESSION_LOGOFF)
+2024-04-15 13:17:23  C:\TCDL\Utilities\Notepad++\config.xml is opened.
+2024-04-15 13:17:23  C:\TCDL\Utilities\Notepad++\config.xml  9833/9833 bytes are written.
+2024-04-15 13:17:23  C:\TCDL\Utilities\Notepad++\config.xml is closed.
+2024-04-15 13:17:23  C:\TCDL\Utilities\Notepad++\session.xml is opened.
+2024-04-15 13:17:23  C:\TCDL\Utilities\Notepad++\session.xml  60006/60006 bytes are written.
+2024-04-15 13:17:23  C:\TCDL\Utilities\Notepad++\session.xml is closed.
+2024-04-15 13:17:23  WM_DESTROY (isEndSessionStarted == true)
+2024-06-28 16:26:01  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-06-28 16:26:01  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-06-28 16:26:01  D:\Рабочие файлы и программы\npp\config.xml is opened.
+2024-06-28 16:26:01  D:\Рабочие файлы и программы\npp\config.xml  10157/10157 bytes are written.
+2024-06-28 16:26:01  D:\Рабочие файлы и программы\npp\config.xml is closed.
+2024-06-28 16:26:01  D:\Рабочие файлы и программы\npp\session.xml is opened.
+2024-06-28 16:26:01  D:\Рабочие файлы и программы\npp\session.xml  1171/1171 bytes are written.
+2024-06-28 16:26:01  D:\Рабочие файлы и программы\npp\session.xml is closed.
+2024-06-28 16:26:01  WM_DESTROY (isEndSessionStarted == true)
+2024-06-29 11:05:54  WM_QUERYENDSESSION (lParam: 1073741824 - ENDSESSION_CRITICAL) =====================================
+2024-06-29 11:05:54  WM_ENDSESSION (wParam: TRUE, lParam: 1073741824 - ENDSESSION_CRITICAL)
+2024-06-29 11:05:54  D:\Рабочие файлы и программы\npp\config.xml is opened.
+2024-06-29 11:05:54  D:\Рабочие файлы и программы\npp\config.xml  10157/10157 bytes are written.
+2024-06-29 11:05:54  D:\Рабочие файлы и программы\npp\config.xml is closed.
+2024-06-29 11:05:54  D:\Рабочие файлы и программы\npp\session.xml is opened.
+2024-06-29 11:05:54  D:\Рабочие файлы и программы\npp\session.xml  955/955 bytes are written.
+2024-06-29 11:05:54  D:\Рабочие файлы и программы\npp\session.xml is closed.
+2024-06-29 11:05:54  WM_DESTROY (isEndSessionStarted == true)
+2025-10-27 19:49:01  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2025-10-27 19:49:01  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2025-10-27 19:49:01  D:\Рабочие файлы и программы\npp\config.xml is opened.
+2025-10-27 19:49:01  D:\Рабочие файлы и программы\npp\config.xml  9451/9451 bytes are written.
+2025-10-27 19:49:01  D:\Рабочие файлы и программы\npp\config.xml is closed.
+2025-10-27 19:49:01  D:\Рабочие файлы и программы\npp\session.xml is opened.
+2025-10-27 19:49:01  D:\Рабочие файлы и программы\npp\session.xml  945/945 bytes are written.
+2025-10-27 19:49:01  D:\Рабочие файлы и программы\npp\session.xml is closed.
+2025-10-27 19:49:01  WM_DESTROY (isEndSessionStarted == true)
+2026-02-13 19:56:29  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2026-02-13 19:56:30  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2026-02-13 19:56:30  D:\Рабочие файлы и программы\npp\config.xml is opened.
+2026-02-13 19:56:30  D:\Рабочие файлы и программы\npp\config.xml  9951/9951 bytes are written.
+2026-02-13 19:56:30  D:\Рабочие файлы и программы\npp\config.xml is closed.
+2026-02-13 19:56:30  D:\Рабочие файлы и программы\npp\session.xml is opened.
+2026-02-13 19:56:30  D:\Рабочие файлы и программы\npp\session.xml  19004/19004 bytes are written.
+2026-02-13 19:56:30  D:\Рабочие файлы и программы\npp\session.xml is closed.
+2026-02-13 19:56:30  WM_DESTROY (isEndSessionStarted == true)
+2026-03-13 19:52:07  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2026-03-13 19:52:07  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2026-03-13 19:52:07  D:\Рабочие файлы и программы\npp\config.xml is opened.
+2026-03-13 19:52:07  D:\Рабочие файлы и программы\npp\config.xml  10063/10063 bytes are written.
+2026-03-13 19:52:07  D:\Рабочие файлы и программы\npp\config.xml is closed.
+2026-03-13 19:52:07  D:\Рабочие файлы и программы\npp\session.xml is opened.
+2026-03-13 19:52:07  D:\Рабочие файлы и программы\npp\session.xml  25699/25699 bytes are written.
+2026-03-13 19:52:07  D:\Рабочие файлы и программы\npp\session.xml is closed.
+2026-03-13 19:52:07  WM_DESTROY (isEndSessionStarted == true)

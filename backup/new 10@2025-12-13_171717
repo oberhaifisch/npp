@@ -1,0 +1,52 @@
+{
+"nbformat": 4,
+"nbformat_minor": 0,
+"metadata":
+    {
+    "colab":
+        {
+        "provenance":
+            [
+            ],
+        "authorship_tag": "ABX9TyO5olE5uyFFaQr5NXqF7QrP"
+        },
+    "kernelspec":
+        {
+        "name": "python3",
+        "display_name": "Python 3"
+        },
+    "language_info":
+        {
+        "name": "python"
+        }
+    },
+"cells":
+    [
+        {
+        "cell_type": "markdown",
+        "source":
+            [
+            "# Head1"
+            ],
+        "metadata":
+            {
+            "id": "FW5bx47UEDvO"
+            }
+        },
+        {
+        "cell_type": "code",
+        "execution_count": null,
+        "metadata":
+            {
+            "id": "2MjaWn7fD-Mh"
+            },
+        "outputs":
+            [
+            ],
+        "source":
+            [
+            "#code1"
+            ]
+        }
+    ]
+}

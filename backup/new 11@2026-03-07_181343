@@ -1,0 +1,165 @@
+from turtle import *
+screen = Screen()
+speed(0)
+
+
+def grid(x0=-150, y0=-150, x1=200, y1=200, step=10, grid_color="#ffbf00"):
+    # Функция для рисования вертикальных линий сетки
+    def draw_y_lines(step):
+        tracer(0)
+        for i in range(x0, x1+1, step):
+            penup()
+            goto(i, y1)
+            pendown()
+            goto(i, y0)
+        tracer(1)
+
+
+    # Функция для рисования горизонтальных линий сетки
+    def draw_x_lines(step):
+        tracer(0)
+        for i in range(y0, y1+1, step):
+            penup()
+            goto(x1, i)
+            pendown()
+            goto(x0, i)
+        tracer(1)
+
+
+    # скорость черепахи
+
+    # цвет сетки
+    color(grid_color)
+
+    # Отображение сетки
+    pensize(1)
+    draw_y_lines(step)
+    draw_x_lines(step)
+    pensize(3)
+    draw_y_lines(step * 10)
+    draw_x_lines(step * 10)
+
+    # Возвращаем черепашку в начало координат
+    penup()
+    home()
+    pendown()
+    color("#000000")
+    pensize(1)
+
+###### 1243`
+# 1243
+
+
+class Color(int):
+    """
+    The parent class int is immutable, so its value is set during object creation (__new__) rather than initialization (__init__). Any attempt to modify its value in the __init__ method will fail.
+    The __new__ method is responsible for creating and returning a new instance of the class, for immutable types like int.
+    """
+    def __new__(cls, color):
+        return super().__new__(cls, color & 0xffffff)        
+        
+    def __iadd__(self, other):
+        return Color((int(self) + other) & 0xffffff)
+    def __isub__(self, other):
+        return Color((int(self) - other) & 0xffffff)
+    def __imul__(self, other):
+        return Color((int(self) * other) & 0xffffff)
+    def __idiv__(self, other):
+        return Color((int(self) // other)& 0xffffff)
+    def __ifloordiv__(self, other):
+        return Color((int(self) // other)& 0xffffff)
+        
+    def __add__(self, other):
+        return Color((int(self) + other) & 0xffffff)
+    def __sub__(self, other):
+        return Color((int(self) - other) & 0xffffff)
+    def __mul__(self, other):
+        return Color((int(self) * other) & 0xffffff)
+    def __div__(self, other):
+        return Color((int(self) // other)& 0xffffff)
+    def __floordiv__(self, other):
+        return Color((int(self) // other)& 0xffffff)
+    
+    def __str__(self):
+        return '#' + f'{(self & 0xff0000) >> 16:02x}'+ \
+                     f'{(self & 0x00ff00) >> 8:02x}'+ \
+                     f'{(self & 0x0000ff):02x}'
+    __repr__ = __str__
+
+
+
+
+def tree(lvl, step=150):
+    gray_value = int((lvl / MAX_LVL) * 255)
+    color = Color((gray_value << 16) + (gray_value << 8) + gray_value)
+    # print(lvl, color)
+    
+    if lvl == 0:
+        pendown()
+        forward(step)
+        penup()
+    else:
+        s2 = step * .707107
+        pendown()
+        forward(step)
+        penup()
+        left(45)
+        tree(lvl-1, s2)
+        back(s2)
+        left(-45)
+        left(-45)
+        tree(lvl-1, s2)
+        back(s2)
+        left(45)
+
+
+
+
+
+bgcolor('#eeeeff')        
+grid(-200, -300, 150, 250)
+
+left(90)
+penup()
+goto(0, -100)
+pendown()
+
+MAX_LVL = 10
+tracer(100)
+if 'SPRING' * 1:
+    for i in range(MAX_LVL, 0 - 1, -1):
+        print(i)
+        penup()
+        goto(0, -200)
+        pendown()
+        
+        # Calculate transition factor
+        factor = i / MAX_LVL
+        brown = 51, 36, 18
+        green = 165, 247, 0
+        
+        # Interpolate between brown and light green
+        r = int(brown[0] + (-brown[0] + green[0]) * factor)
+        g = int(brown[1] + (-brown[1] + green[1]) * factor)
+        b = int(brown[2] + (-brown[2] + green[2]) * factor)
+        
+        color(str(Color((r << 16) + (g << 8) + b)))
+        width(5 - 2 * (i % 2))
+        tree(i)
+elif 'WINTER':
+    for i in range(MAX_LVL, 0 - 1, -1):
+        print(i)
+        penup()
+        goto(0, -200)
+        pendown()
+        # Uncomment the line below if you want random colors instead of grayscale
+        farb = str(Color(
+            (int((i / MAX_LVL) * 255) << 16) + \
+            (int((i / MAX_LVL) * 255) << 8) + \
+            (int((i / MAX_LVL) * 255) << 0)
+        ))
+        print('farb', farb)
+        color(farb)
+        width(5 - 2 * (i % 2))
+        tree(i)
+done()

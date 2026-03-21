@@ -1,0 +1,16 @@
+
+
+from math import log10
+
+def rev(num):
+    if 0 <= num <= 9:
+        return num
+    
+    
+    exp = int(log10(num)) + 1
+    print(exp)
+    rem = num % 10 ** exp
+    return rem + rev(num // 10)
+    
+
+print(rev(1234))

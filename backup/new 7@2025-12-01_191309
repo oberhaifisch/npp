@@ -1,0 +1,31 @@
+test = '''
+4
+apple
+15, 30, 24, 12
+pear
+27, 25, 25, 34
+melon
+14, 13, 15, 11, 16
+orange
+6, 12, 11
+melon
+
+'''[1:-1].split('\n')[::-1]
+
+input = test.pop
+
+
+# dd = {input(): list(map(int, input().split(', '))) for _ in range(int(input()))}
+# dd = {input(): [int(x) for x in input().split(', ')] for _ in range(int(input()))}
+
+dd = dict()
+for _ in range(int(input())):
+    dd[input()] = [int(x) for x in input().split(', ')]
+
+for key in dd:
+    print(min(dd[key]))
+for key in dd:
+    print(min(dd[key]))
+    
+    
+    

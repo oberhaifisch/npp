@@ -1,6 +1,0 @@
-
-
-for a in 'no yes'.split():
-    for b in 'no yes'.split():
-        for c in 'no yes'.split():
-            print(f'''Ctrl="{a}" Alt="{b}" Shift="{c}"''')

@@ -69,6 +69,7 @@ if not os.path.exists(FULL_CURRENT_PATH):
     CURRENT_DIRECTORY = os.path.join(NPP_DIRECTORY, 'backup')
     tplt = CURRENT_DIRECTORY + '\\' + FULL_CURRENT_PATH + '@*'
     filenames = glob.glob(tplt)
+    
     # if not filenames:
         # print(*((_, eval(_)) for _ in dir()), sep='\n')
         ## lena = len(max(dir(), key=len))
@@ -79,9 +80,16 @@ if not os.path.exists(FULL_CURRENT_PATH):
         latest_filename = max(filenames, key=os.path.getctime)
         FULL_CURRENT_PATH = latest_filename
     else:
-        print(f"file <{FULL_CURRENT_PATH}> is not found")
-        input("press anykey")
-        exit()
+        print(f"py_runner says: file <{FULL_CURRENT_PATH}> is not found")
+        FULL_CURRENT_PATH = CURRENT_DIRECTORY
+        # if not os.path.exists(FULL_CURRENT_PATH):
+            # from datetime import datetime
+            # timestamp = datetime.now().strftime("%Y-%m-%d_%H%M%S")
+            # with open(os.path.join(CURRENT_DIRECTORY, FULL_CURRENT_PATH), 'w') as f:
+                # pass
+
+        # input("press anykey")
+        # exit()
 
 # if 'latest_filename' not in dir():
     # latest_filename = FULL_CURRENT_PATH

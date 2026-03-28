@@ -109,7 +109,7 @@ def get_cell_code(curr_line_num, from_start=0):
         end = len(lines)
         
         if not from_start:
-            print(curr_line_num)
+            # print(curr_line_num)
             if lines[curr_line_num].startswith(CELLS_DIVIDER):
                 start = curr_line_num
             else:
